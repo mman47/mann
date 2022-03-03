@@ -1,0 +1,22 @@
+<html>
+
+<head>
+
+ <title>เว็บของ ประกายเพชร
+
+ </title>
+
+</head>
+
+ <body bgcolor="FFDEAD">
+       <center>
+                 นายประกายเพชร เพ็ชรดี<br>
+                 ห้อง 5/1<br>
+                 เลขที่ 17<br>
+<img src="L.jpg"><center>
+
+
+
+ </body>
+
+</html>
